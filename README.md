@@ -1,2 +1,2 @@
 -  Hi, I’m @verkur17
--  I’m interested in creating an A.I or app that can listen to EFL classroom conversation and based on human communication stratgieds decide what is  best for teacher and laerner to do.
+-  I’m interested in creating an A.I or app that can listen to EFL classroom conversation and based on communication stratgies decide what is  best for teacher and laerner to do.
